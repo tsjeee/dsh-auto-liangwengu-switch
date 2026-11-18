@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Auto Liangwengu execution switch",
+    "description": "Auto Liangwengu execution switch adds a 峰谷执行 switch to the composer toolbar, immediately right of the model selector. While the switch is on, pressing Send does not run the message now: the Host mounts it as an automation task that runs in the same conversation when the next off-peak window opens (the end of the current weekday peak window, 12:00 or 18:00 Beijing time). DeepSeek's peak windows are Monday–Friday 09:00–12:00 and 14:00–18:00 Beijing time, excluding Chinese statutory holidays; everything else — midday break, nights, weekends, holidays — is off-peak, where the switch stays off and clicking it shows 当前已处于峰谷时段了."
+  }
+}
